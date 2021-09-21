@@ -1,4 +1,5 @@
 # odd-or-even
+Just another repositry
 #include <stdio.h>
 int main() {
     int num;
